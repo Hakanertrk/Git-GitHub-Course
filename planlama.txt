@@ -2,3 +2,6 @@ yeni uygulama için planlama belgesi.
 
 
 yeni bir to-do it uygulaması geliştireceğim burası da onun planama sayfası olacak.
+
+
+anasayfa index oluşturuldu başlangıç yapıldı.
